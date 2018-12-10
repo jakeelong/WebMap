@@ -13,7 +13,7 @@ SECRET_KEY = 'rev3rse-notes:_you_should-change_this..._but_webmap_should_run_on_
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 #       ^^^ leave it active for better understand issues and bug
 #       ^^^ (again, this is a good reason to not expose this app on the internet)
 
