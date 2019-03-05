@@ -22,7 +22,7 @@ A Web Dashbord for Nmap XML Report
 - [Contributors](#contributors)
 - [Contacts](#contacts)
 
-## Usage
+### Usage
 You should use this with docker, just by sending this command:
 ```bash
 $ mkdir /tmp/webmap
