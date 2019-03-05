@@ -7,7 +7,7 @@ A Web Dashbord for Nmap XML Report
 
 ![WebMap](https://i.imgur.com/33kpQ0J.png)
 
-## Table Of Contents
+# Table Of Contents
 - [Usage](#usage)
 - [Video](#video)
 - [Features](#features)
